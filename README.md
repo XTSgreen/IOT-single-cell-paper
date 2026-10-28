@@ -2,6 +2,8 @@
 
 This directory is the clean-room revision package for UOT-IOT, GH-IOT and PERSIST-IOT. It is separated from the historical analysis archive and uses a frozen protocol hash, method-level source pins, common data contracts and reviewer-facing result schemas. The executable GH-IOT and PERSIST-IOT implementations and the frozen processed source panels are included in the package and do not import model code from the historical project tree. Full raw GEO archives are optional for rebuilding the frozen panels. Release, DOI and licensing metadata will be frozen after all benchmark gates pass.
 
+latest zenodo DOI:[![DOI](https://zenodo.org/badge/1372728536.svg)](https://doi.org/10.5281/zenodo.23720273)
+
 ## Current executable scope
 
 1. B1 includes six known-truth scenarios, three sample sizes, five seeds, paired bootstrap inference and explicit parameter-recovery gates.
